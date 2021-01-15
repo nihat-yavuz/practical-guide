@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254575476943",
+    "project_id": "pratikrehber",
+    "storage_bucket": "pratikrehber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254575476943:android:e5f8a471927f6f1256f7ba",
+        "android_client_info": {
+          "package_name": "com.example.test_tasarim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254575476943-24p2jukla0k0t5k2u4rn65gb0r1iq6l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFNttPYmLRC4Wn5JfhN0q5RY3wop7lrl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254575476943-24p2jukla0k0t5k2u4rn65gb0r1iq6l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
